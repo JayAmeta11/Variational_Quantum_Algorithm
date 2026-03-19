@@ -1,7 +1,6 @@
 # Variational Quantum Algorithms (VQA) Exploration ⚛️💻
 
 [![Jupyter Notebook](https://img.shields.io/badge/Made_with-Jupyter-F37626.svg?logo=Jupyter)](https://jupyter.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-blueviolet)](#)
 
 Welcome to the **Variational Quantum Algorithm** repository! This project is a comprehensive collection of Jupyter Notebooks dedicated to exploring, implementing, and analyzing various Variational Quantum Algorithms (VQAs). 
